@@ -3,4 +3,4 @@
 學生：賴泓瑜　蘇暐閎 \
 指導教授：陳亭甫 
 
-![](D:\專題實作\report.PNG)
+![image](picture or gif url)
