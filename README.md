@@ -3,4 +3,4 @@
 學生：賴泓瑜　蘇暐閎 \
 指導教授：陳亭甫 
 
-![image](picture or gif url)
+![image](https://github.com/zyxzyie/portfolio-trader-with-RL/blob/main/report.PNG)
